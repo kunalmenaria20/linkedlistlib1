@@ -1,7 +1,5 @@
 #include "pch.h"
 #include "linkedlist.h"
-
-using namespace System;
 using namespace std;
 node::node(int value) {
     data = value;
