@@ -7,7 +7,7 @@ struct node {
     int data;
     node* next;
     node(int value);
-   };
+};
 class Linkedlist {
 public:
     node* head;

@@ -23,7 +23,7 @@ int Stack::peek() {
         return 1;
     };
     return list.head->data;
-   
+
 
 }
 bool Stack::isEmpty() const {

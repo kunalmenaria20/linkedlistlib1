@@ -14,6 +14,6 @@ public:
     void display();
     int  peek();
     bool isEmpty() const;
-   
+
 };
 #endif
